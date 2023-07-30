@@ -48,7 +48,7 @@ Run the Streamlit application using the command streamlit run pychain.py.
 Enter values for sender, receiver, and amount and click the Add Block button multiple times to store several blocks in the ledger.
 Verify the block contents and hashes in the Streamlit drop-down menu and take a screenshot of the Streamlit application page displaying the blockchain with multiple blocks.
 
-Test the blockchain validation process and take a screenshot of the Streamlit application page displaying "Blockchain is Valid."
+Test the blockchain validation process and take a screenshot of the Streamlit application page displaying "Blockchain is Valid." (See file Module18_1)
 
 
 #### Conclusion
